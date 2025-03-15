@@ -8,4 +8,3 @@ Tecnologias Usadas: <br>
 • HTML <br>
 • CSS <br>
 • JavaScript <br>
-• React <br>
